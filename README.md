@@ -2,6 +2,10 @@
 
 This repository contains the Maven Java project that queries the GCP API and creates a job.  The input is a large text file containing plays from Shakespeare, Hugo, and Tolstoy.  The Hadoop spark job that runs is contained in the hadoop file in this repo.  It runs an inverted index algorithm, mapping each term (key) to the file it was found in and the frequency of how many times it was found within that file (value).
 
+# Video Demo
+
+[Watch here](https://www.youtube.com/watch?v=G3q4798JNbA)
+
 # Requirements
 
 - Docker Desktop Client

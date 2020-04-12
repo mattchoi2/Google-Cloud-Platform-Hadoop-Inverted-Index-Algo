@@ -6,6 +6,12 @@ This repository contains the Maven Java project that queries the GCP API and cre
 
 [![Thumbnail of video](http://img.youtube.com/vi/G3q4798JNbA/0.jpg)](http://www.youtube.com/watch?v=G3q4798JNbA)
 
+# Tasks Completed
+
+1. Java Application Implementation and Execution on Docker
+2. Docker to GCP Cluster Communication
+3. Inverted Indexing MapReduce Implementation and Execution on the Cluster (GCP)
+
 # Requirements
 
 - Docker Desktop Client

@@ -5,6 +5,7 @@ This repository contains the Maven Java project that queries the GCP API and cre
 # Video Demo
 
 [Watch here](https://www.youtube.com/watch?v=G3q4798JNbA)
+[(http://img.youtube.com/vi/G3q4798JNbA/0.jpg)](http://www.youtube.com/watch?v=G3q4798JNbA)
 
 # Requirements
 
